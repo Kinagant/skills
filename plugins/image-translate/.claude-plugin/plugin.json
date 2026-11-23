@@ -1,0 +1,11 @@
+{
+  "name": "image-translate",
+  "version": "0.3.0",
+  "description": "图片翻译：调用 GlotFrame API，把图片里的文字翻译成目标语言并保留排版",
+  "author": {
+    "name": "GlotFrame",
+    "url": "https://app.glotframe.com"
+  },
+  "homepage": "https://www.glotframe.com/Skill.html",
+  "keywords": ["translate", "image", "ocr", "glotframe"]
+}

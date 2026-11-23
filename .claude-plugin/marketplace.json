@@ -1,0 +1,16 @@
+{
+  "name": "glotframe",
+  "owner": {
+    "name": "GlotFrame",
+    "url": "https://app.glotframe.com"
+  },
+  "description": "GlotFrame 官方插件市场：图片翻译等能力",
+  "plugins": [
+    {
+      "name": "image-translate",
+      "source": "./plugins/image-translate",
+      "description": "图片翻译：把图片里的文字翻译成目标语言并保留排版",
+      "version": "0.3.0"
+    }
+  ]
+}
